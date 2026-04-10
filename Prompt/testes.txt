@@ -1,0 +1,8 @@
+teste 1: 
+    Quero fazer testes unitarios nas funcionalidade, mapei os metodos de cada funcionalidade existente no sistema, crie exemplos de casos de teste para cada funcionalidade. 
+
+o que fez: 
+    Analisar código existente (blog.controller.ts e blog.service.ts)
+    Mapear os métodos de cada funcionalidade
+    Criar arquivo de relatório relacionando os métodos com os casos de teste
+    Criar exemplos práticos de testes unitários
