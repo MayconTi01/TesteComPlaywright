@@ -1,0 +1,16 @@
+1- Quais explicações preciso fazer no slide 
+2- Como vai ficar o fluxo de produção de teste? qual a sequencia de ações 
+3- Onde vou inserir ia no fluxo de testes ? 
+
+    op1 => criar um sistemas fornt e back por iA 
+    op2 => Pegar um repositorio ja com um sitema ja pronto 
+    op3 => testa com meu projeto lista de tarefas 
+
+https://www.linkedin.com/pulse/top-10-sites-para-praticar-automa%C3%A7%C3%A3o-de-testes-web-mateus-rossetti-fvrlf/
+
+
+
+4- O que vou fazer para demostração ? para teste unitario, integração, e E2E 
+
+ inicio => avalição do sistema 
+ fim => bug report
